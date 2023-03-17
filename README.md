@@ -43,6 +43,7 @@ docker-compose exec web python manage.py migrate --noinput
 
 ##### Введите в адресную строку браузера localhost:8000 : приложение запущено и работает!
 
+#### [Ссылка на гугл-таблицу](https://docs.google.com/spreadsheets/d/1xcqi4iruwBJA_bpqW10wxlcOJEPsGfThcxm0hxQ3EUQ/edit#gid=0)
 
 
 Автор: [Ибятов Раиль](https://github.com/Talgatovich)
