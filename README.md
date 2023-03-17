@@ -20,7 +20,6 @@ POSTGRES_PASSWORD=<Пароль пользователя>
 DB_HOST=db
 DB_PORT=5432
 
-
 CHAT_ID=<ID вашего профиля в telegram>
 
 ```
@@ -37,7 +36,7 @@ docker-compose up -d
 docker-compose exec web python manage.py migrate --noinput
 ```
 
-### Чтобы получать уведомления найдите [бота](https://t.me/google_sheets_notification_bot) и нажмите "Start". 
+### Чтобы получать уведомления, найдите [бота](https://t.me/google_sheets_notification_bot) и нажмите "Start". 
 После перехода на главную страницу приложения,
 он пришлет вам сообщение с 
 количеством просроченных заказов и их список
